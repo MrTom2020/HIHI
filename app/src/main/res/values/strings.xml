@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">cacthuattoansapxep</string>
+    <string name="quick">Quick sort</string>
+    <string name="bubble">Bubble sort </string>
+    <string name="simple">Simple selection sort</string>
+    <string name="heap">Heap sort</string>
+    <string name="simplei">Simple insertion sort</string>
+    <string name="insertionSort">Insertion Sort</string>
+    <string name="shell">Shell sort</string>
+    <string name="Merge">Merge sort</string>
+    <string name="radix">Radix sort</string>
+    <string name="Xinnhap">Xin nhập dãy số của bạn muốn vào</string>
+</resources>
